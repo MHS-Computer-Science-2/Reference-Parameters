@@ -42,7 +42,7 @@ void main()
 	//copies, so changing parameters has no effect on the original values
 
 	//Problem 4.6 (See canvas for instructions)
-	int r, double a;
+	int r; double a;
 	cout << "Please enter the radius of your circle: ";
 	cin >> r;
 	circleArea(r, a);
