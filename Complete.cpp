@@ -43,7 +43,7 @@ void main()
 
 
 	//Problem 4.6 (See canvas for instructions)
-	int r, double a;
+	int r; double a;
 	cout << "Please enter the radius of your circle: ";
 	cin >> r;
 	circleArea(r, a);
